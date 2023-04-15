@@ -1,0 +1,4 @@
+baseURL = 'http://iwbastrshiet.com/'
+languageCode = 'ru-ru'
+title = "Thats my blog"
+theme = 'ananke'
